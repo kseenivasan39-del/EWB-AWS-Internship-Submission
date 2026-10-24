@@ -1,5 +1,7 @@
 # AWS VPC Peering — Cross-VPC Private Communication
 
+**Student Name:** ANISH S  
+**Course:** AWS Architect Associate  
 **Project:** EWB AWS Internship  
 **Cloud Platform:** Amazon Web Services (AWS)  
 **Region:** US East (Ohio) — `us-east-2`  
